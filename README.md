@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdilKassymov
-- 👀 I’m interested in learning Java, Swift, Python
-- Currently practicing in Java
+- 👀 I’m interested in learning Java
+- Currently practicing in Java, SQL
 - Trying to reach a Java Senior Developer LVL
 - Chasing a DREAM
 
